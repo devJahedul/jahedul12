@@ -1,2 +1,3 @@
 # jahedul123
-https://github.com/devJahedul/jahedul12/
+
+https://devjahedul.github.io/jahedul12
