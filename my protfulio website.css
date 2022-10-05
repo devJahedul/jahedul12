@@ -1,0 +1,237 @@
+body{ background-color: white;
+
+}
+
+#jahedul
+{ background-color: darkturquoise;
+width: 100%;
+height: auto;}
+
+div#jahedul {
+    margin-top: -9px;
+}
+
+.fiexd{ position: fixed;}
+#pic{ margin: 10px;
+    padding: 10px;}
+
+    img#border {
+        border-radius: 22px;
+    }
+
+#pic img{ margin-right: 10px;}
+
+#pic a{ text-decoration: none;}
+
+#pic span
+    { font-size: 20px;
+    color:navajowhite
+    padding-bottom: 10px;}
+    #span,img{ float:left;}
+
+li 
+    { list-style-type: none;
+    float: left;
+    margin: 12px;
+
+    }
+li a{
+    text-decoration: none;
+     }
+nav {
+    float: right;
+    margin-bottom: 0px;
+    margin-top: -38px;
+    font-size: 20px;
+    }
+ul li a:hover{
+    background-color: aqua;
+     color:red;
+     font-size: 25px;
+     border-radius: 20px;
+     transition: .5s;
+     }
+     
+     
+
+
+#icon a
+    { text-decoration: none;
+        margin: 4px; 
+       font-size: 20px;
+}
+
+
+.website pic
+    { text-align: center;
+margin: 10px;
+}
+
+
+
+
+#picc
+    { margin: 15px;
+    padding: 10px;}
+    #picc img{margin-right: 208px;}
+    #spann, img{ float: left;}
+    .aaaa{ text-align: center;}
+
+.center{ text-align: center;
+font-size: 32px;}
+
+.px{ font-size: 20px;}
+
+
+
+.margin{ margin: 50px;}
+    
+
+.ba{ margin: 10px;}
+
+
+
+
+#baa{ height:auto;
+    width:auto;
+    transition: 1s;
+    background-color: springgreen;}
+    #baa:hover{ width:240px;}
+   
+
+    .input{ border-radius: 20px;}
+
+    .inpu{border-radius: 20px; background-color: black;
+        color: white; margin: 25px;}
+        .inpu{ font-size: 20px;}
+        .input{ font-size: 20px;}
+
+        .tex{text-decoration: none; margin: 10px;}
+
+
+        #WORK{ border-radius: 20px;
+        
+        background-color: orchid;
+    margin-left: 590px;}
+
+    .lor{ background-color: chartreuse;text-align: center;margin-top: 400px; height: 100px;}
+
+
+
+
+    .lor{ animation: jahidul;
+        animation-duration: 5s;
+        }
+        
+        @keyframes jahidul{ 
+            from{ background-color: green;}
+            to { background-color:blueviolet;}
+              }
+
+
+
+              .inpu{ animation: jahidul;
+                animation-duration: 8s;
+                }
+                
+                @keyframes jahidul{ 
+                    from{ background-color: green;}
+                    to { background-color:blueviolet;}
+                      }
+
+
+                      *{ box-sizing: border-box;}
+
+.container{width: 100%;
+    margin-bottom: 800px;
+    margin: 60px;
+    
+
+
+}
+
+
+ @media( min-width:1280px){
+.aa {width: 33%;
+    float: left; 
+}}
+
+
+@media( max-width:1279px) and (min-width:800px){
+.bb {width: 50%;
+    float: left; 
+}}
+
+
+@media( max-width:799px) and ( min-width:320px){
+.cc {width: 100%;
+    float: left; 
+}}
+h1{ 
+margin: 5px;
+padding: 5px;
+}
+.ss{ text-align: center;}
+
+
+
+    .tt{ border-radius: 20px;
+    }
+    #mm{ background-color: yellow;
+        font-size: 20px;
+
+    }
+    #mn{ background-color: teal;
+    font-size: 24px;}
+    .icon{ margin-bottom: 40px;}
+    
+    div#icon {
+        margin: 37px;
+        margin-top: -29px;
+    }      
+    #mar{ margin: 20px;} 
+
+
+    #ww{ margin: 10px;
+    margin-left: 63px;}
+                      
+  footer{ 
+      background-color:teal;
+      border: solid 40px teal;
+
+        margin-right: -73px;
+        margin-left: -4px;
+    
+  }
+  nav{ margin-top: -52px;}
+  .center a:hover{ background-color: white;
+border-radius: 26px;
+color: navy;
+transition: .5s;
+font-size: 25px;}
+
+#ww img:hover{ height: 228px;
+transition: 1s;}
+
+
+
+
+
+
+}
+ .l:hover{ color: blue;
+    background-color: darkgrey;
+font-size: 19px;
+transition: .5s;}
+.inpu:hover{
+    color: white;
+    font-size: 23px;
+    transition: .5s;
+}
+#mm:hover{ font-size: 27px;
+transition: .5s; 
+background-color: tomato;}
+
+#mn:hover{ font-size: 27px;
+    transition: .5s; 
+    background-color: tomato;}
